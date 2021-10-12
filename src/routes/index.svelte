@@ -1,5 +1,4 @@
 <script>
-
 </script>
 
 <h1>Korean History and Legends</h1>
